@@ -1,1 +1,2 @@
 # npm-package
+The square-function is a straightforward Node.js package that provides a function designed to calculate the square of a given number. This package offers two versions of the function: one using callback functions and the other utilizing Promises to manage asynchronous operations.
